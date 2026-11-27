@@ -56,6 +56,9 @@ Zenith Soft Plugin Manager is an ongoing project. New tools, improvements, and f
 
 **Zenith Soft**  
 Practical tools for 3D design and manufacturing.
+<img width="1920" height="1039" alt="Screenshot 2026-11-27 152647" src="https://github.com/user-attachments/assets/be3234fd-4f8d-4cc1-b48e-895d36af7328" />
+<img width="1915" height="1030" alt="Screenshot 2026-11-28 015733" src="https://github.com/user-attachments/assets/754f0e88-2046-4873-80ee-26b432ea2e24" />
+
 <img width="1915" height="1035" alt="Annotation 2026-11-23 181212" src="https://github.com/user-attachments/assets/8c04f2a3-206f-49d8-b64f-44eef648ae88" />
 
 <img width="1920" height="1028" alt="Annotation 2026-11-23 175330" src="https://github.com/user-attachments/assets/714c036d-adc5-4765-98b6-5c556f253566" />
