@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/3dd05f3b-602b-4aa7-95cd-12875b563735" />
 # Zenith-soft-Plugin-manager
 A free plugin manager for Rhino 7, bringing together Zenith Soft’s tools for modeling, mesh processing, nesting, and digital fabrication.
 
